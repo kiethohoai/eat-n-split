@@ -127,6 +127,11 @@ form {
   padding: 3.2rem 4rem;
 }
 
+/* My CSS Config */
+.form-add-friend label {
+  width: 120px;
+}
+
 label {
   font-weight: 500;
 }
